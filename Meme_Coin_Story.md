@@ -44,7 +44,6 @@
 	- Die Stufen werden durch den Wert des Projektes, also durch den Markt-Wert des Meme-Coins definiert 
 	- Stufe "sn" ist die Werte Stufe für die Spezial NTFs, er ist quasi Stufe 9
 
-
 ### Das Game
 - Dazu erstellen wir ein Spiel "Zelda emulator"
 	- Das Spiel wird auf smolitux.os gehostet und kann dort gespielt werden
@@ -67,5 +66,14 @@
 	- Spezial NTFs werden vergeben, wenn ein User bspw eine Gewisse anzahl von NTF Kollektionen (also vollständige Skart-Decks) stackt
 	- Spezial NTFs werden an besondere Sponsoren und Investoren vergeben.
 
-In diesem System gibt es insgesamt 9.216 NTFs. Diese Anzahl basiert darauf, dass es 8 NTF-Charaktere gibt, jeder Charakter durch ein Skat-Karten-Deck mit 128 Karten repräsentiert wird, und jede Karte in 9 Stufen verfügbar ist (Stufen 1-8 und eine spezielle Stufe "sn").
+### Sonder Meme Coin & NTF Kollektion "Prophet"
+- Der Meme Coin "Prophet" ist der erste Meme Coin aus dem Smolitux Framework
+- Die Propheten NTFs werden NUR wärend der PRE-PRE-SALE-ACTION verkauft
+- Die Propheten NTFs können NUR mit dem Propheten Meme Coin gekauft werden
+	- Die Propheten kündigen ein neues Projekt und somit den PRE-SALE & Launch eines neuen Meme Coins an
+	- Die Propheten NTFs dienen zur start Finanzierung eines neuen Projektes
+	- Sobald alle NTFs verkauft wurden, wird das Projekt gestartet und es gibt einen neuen Meme Coin
+
+
+In diesem System gibt es insgesamt 9.216 NTFs plus die sonder Kollektion "Prophet". Diese Anzahl basiert darauf, dass es 8 NTF-Charaktere gibt, jeder Charakter durch ein Skat-Karten-Deck mit 128 Karten repräsentiert wird, und jede Karte in 9 Stufen verfügbar ist (Stufen 1-8 und eine spezielle Stufe "sn").
 
