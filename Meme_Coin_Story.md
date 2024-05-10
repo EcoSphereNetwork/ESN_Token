@@ -74,6 +74,11 @@
 	- Die Propheten NTFs dienen zur start Finanzierung eines neuen Projektes
 	- Sobald alle NTFs verkauft wurden, wird das Projekt gestartet und es gibt einen neuen Meme Coin
 
+### Crew Member NTFs
+- Es werden 128 Crew Member NTFs erstellt
+  	- Die Crew Member NTFs werden nur an die Start Crew des Smolitux Projektes vergeben
+  	- Alle 128 Crew Member NTFs stellen 10% des gesamten Firmen Wertes da
+
 
 In diesem System gibt es insgesamt 9.216 NTFs plus die sonder Kollektion "Prophet". Diese Anzahl basiert darauf, dass es 8 NTF-Charaktere gibt, jeder Charakter durch ein Skat-Karten-Deck mit 128 Karten repräsentiert wird, und jede Karte in 9 Stufen verfügbar ist (Stufen 1-8 und eine spezielle Stufe "sn").
 
