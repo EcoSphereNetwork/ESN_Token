@@ -1,4 +1,4 @@
-Das vorgeschlagene System umfasst eine komplexe Struktur aus Meme Coins, NTFs (Non-fungible Tokens), Spielen und einer interaktiven Lernplattform, die alle miteinander verknüpft sind, um ein innovatives digitales Ökosystem zu schaffen. Hier ist eine detaillierte Beschreibung der Hauptkomponenten:
+Das vorgestellte System umfasst eine komplexe Struktur aus Meme Coins, NTFs (Non-fungible Tokens), Spielen und einer interaktiven Lernplattform, die alle miteinander verknüpft sind, um ein innovatives digitales Ökosystem zu schaffen. Hier ist eine detaillierte Beschreibung der Hauptkomponenten:
 
 ### Meme Coin Ecosystem
 
