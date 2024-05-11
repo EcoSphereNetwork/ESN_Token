@@ -40,7 +40,7 @@ Sonder Meme Coin & NTF Kollektion "Prophet"
 Crew Member NTFs
 
     Beschreibung: 128 Crew Member NTFs, exklusiv für das Startteam des Smolitux-Projekts.
-        Diese NTFs repräsentieren insgesamt 10% des gesamten Unternehmenswerts.
+        Diese NTFs repräsentieren eine sonder Vergütung bei erreichen von Etappen Zielen des Projektes und sind mit Bonus Zahlungen verbunden.
 
 Artist NTFs & Meme Coins
 
