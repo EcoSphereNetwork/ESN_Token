@@ -14,29 +14,29 @@ ___
 
 ### Project Token
 
-- [ ] 1. TradingBot Prophet Meme Coins & NTFs
-  - [ ] 1.1 TradingBot Meme Coins & NTFs
+- [ ] 1. TradingBot - Prophet Meme Coin & NTFs
+  - [ ] 1.1 TradingBot Meme Coin & NTFs
 
-- [ ] 2. SmolituxOS Prophet Meme Coins & NTFs
-  - [ ] 2.1 SmolituxOS Meme Coins & NTFs
+- [ ] 2. Smolitux Academy - Prophet Meme Coin & NTFs
+  - [ ] 2.1 Smolitux Academy - Meme Coin & NTFs
 
-- [ ] 3. Smolit
-  - [ ] 3.1 TradingBot Meme Coins & NTFs
+- [ ] 3. SmoliTrade - Prophet Meme Coin & NTFs
+  - [ ] 3.1 SmoliTrade  - Meme Coin & NTFs
+     
+- [ ] 4. Smolit - Prophet Meme Coin & NTFs
+  - [ ] 4.1 TradingBot - Meme Coin & NTFs
 
-- [ ] 4. SmoliTrade
-  - [ ] 4.1 SmoliTrade Meme Coins & NTFs
+- [ ] 5. SmolituxOS - Prophet Meme Coin & NTFs
+  - [ ] 5.1 SmoliTrade - Meme Coin & NTFs
 
-- [ ] 5. Smallet
-    - [ ] 5.1 Smallet Meme Coins & NTFs
+- [ ] 6. Smallet - Prophet Meme Coin & NTFs
+    - [ ] 6.1 Smallet - Meme Coin & NTFs
 
-- [ ] 6. Smolitux-Suite
-  - [ ] 6.1 Smolitux-Suite Meme Coins & NTFs
+- [ ] 7. Smolitux-Suite - Prophet Meme Coin & NTFs
+  - [ ] 7.1 Smolitux-Suite - Meme Coin & NTFs
 
-- [ ] 7. Smolitux Academy
-  - [ ] 7.1 Smolitux Academy Meme Coins & NTFs
-
-- [ ] 8. EcoSphere-Networks
-  - [ ] 8.1 EcoSphere-Networks Meme Coins & NTFs
+- [ ] 8. EcoSphere-Networks - Prophet Meme Coin & NTFs
+  - [ ] 8.1 EcoSphere-Networks - Meme Coin & NTFs
 
 ### Story Token
 
