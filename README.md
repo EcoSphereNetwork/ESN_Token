@@ -6,11 +6,11 @@ SmoliToken is the token with which we tokenise the company
 ___
 
 
-## PRE-SALE Meme Coins
+## PRE-SALE - Meme Coins
 https://github.com/SamSchim/TradingBot/blob/main/%23%20TradingBot_PRE-SALE.md <-- PRE-SALE TradingBot
 ___
 
-## TOKENOMICS Road Map
+## TOKENOMICS - Road Map
 
 ### Project Token
 
@@ -38,7 +38,7 @@ ___
 - [ ] 8. EcoSphere-Networks
   - [ ] EcoSphere-Networks Meme Coins & NTFs
 
-
-
 ### Story Token
-- [ ] 
+
+- [ ] a
+  - [ ] b
