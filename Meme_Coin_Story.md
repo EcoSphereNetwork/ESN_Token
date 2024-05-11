@@ -29,7 +29,7 @@
 
 
 	- Wenn die Firma offiziell wird also die EcoTechFarmen in Betrieb nimmt, wird der SmoliToken gelauncht, und Firmen Anteile tokenisiert
-		- MemeCoins und NTFs können geburnt werden um die neuen SmoliToken zu bekommen
+		- MemeCoins und NFTs können geburnt werden um die neuen SmoliToken zu bekommen
 
 
 
