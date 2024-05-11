@@ -15,7 +15,7 @@ ___
 ### Project Token
 
 - [ ] 1. TradingBot - Prophet Meme Coin & NTFs
-  - [ ] 1.1 TradingBot Meme Coin & NTFs
+  - [ ] 1.1 TradingBot - Meme Coin & NTFs
 
 - [ ] 2. Smolitux Academy - Prophet Meme Coin & NTFs
   - [ ] 2.1 Smolitux Academy - Meme Coin & NTFs
