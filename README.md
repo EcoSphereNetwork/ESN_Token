@@ -1,6 +1,11 @@
 # SmoliToken
 SmoliToken is the token with which we tokenise the company
 
+___
+
+#EcoSphere-Networks | #SmoliToken | #TradingBot | #SmoliTrade | #Smolit-Suite | #SmolituxOS 
+___
+
 # Hier werden alle Infos zu Meme Coins, NTFs und der tokenisierung des Pojektes Smolitux gepostet
 
 ___
