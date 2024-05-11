@@ -5,6 +5,8 @@ Für unsere Community und Investoren erstellen wir eine Road Map mit Zielen an M
 
 ## TOKENOMICS - Road Map
 
+Ziel ist es die EcoSphere-Networks-SmoliToken Kollektion zu launchen.
+
 ### Project Token
 
     1. TradingBot - Prophet Meme Coin & NTFs
