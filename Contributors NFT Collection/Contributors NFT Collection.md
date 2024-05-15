@@ -1,4 +1,4 @@
-_**Collaborator NFT Collection**_ - NFT Collection
+_**Contributors NFT Collection**_ - NFT Collection
 
 ### Contributors NFT Collection
 - Für jeden Contributor wird ein NFT mit einer NFT Collection erstellt
