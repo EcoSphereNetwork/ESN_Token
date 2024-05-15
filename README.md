@@ -12,15 +12,15 @@ ___
 
 
 ## PRE-SALE - Meme Coins
-https://github.com/SamSchim/TradingBot/blob/main/%23%20TradingBot_PRE-SALE.md <-- PRE-SALE TradingBot
+https://github.com/SamSchim/TrandingBot/blob/main/%23%20TrandingBot_PRE-SALE.md <-- PRE-SALE TrandingBot
 ___
 
 ## TOKENOMICS - Road Map
 
 ### Project Token
 
-- [ ] 1. TradingBot - Prophet Meme Coin & NFTs
-  - [ ] 1.1 TradingBot - Meme Coin & NFTs
+- [ ] 1. TrandingBot - Prophet Meme Coin & NFTs
+  - [ ] 1.1 TrandingBot - Meme Coin & NFTs
 
 - [ ] 2. Smolitux Academy - Prophet Meme Coin & NFTs
   - [ ] 2.1 Smolitux Academy - Meme Coin & NFTs
@@ -29,7 +29,7 @@ ___
   - [ ] 3.1 SmoliTrade  - Meme Coin & NFTs
      
 - [ ] 4. Smolit - Prophet Meme Coin & NFTs
-  - [ ] 4.1 TradingBot - Meme Coin & NFTs
+  - [ ] 4.1 TrandingBot - Meme Coin & NFTs
 
 - [ ] 5. SmolituxOS - Prophet Meme Coin & NFTs
   - [ ] 5.1 SmoliTrade - Meme Coin & NFTs
