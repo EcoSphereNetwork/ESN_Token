@@ -6,7 +6,7 @@ ___
 #EcoSphere-Networks | #SmoliToken | #TradingBot | #SmoliTrade | #Smolit-Suite | #SmolituxOS 
 ___
 
-# Hier werden alle Infos zu Meme Coins, NTFs und der tokenisierung des Pojektes Smolitux gepostet
+# Hier werden alle Infos zu Meme Coins, NFTss und der tokenisierung des Pojektes Smolitux gepostet
 
 ___
 
