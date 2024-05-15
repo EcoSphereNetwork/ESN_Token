@@ -1,4 +1,4 @@
-### Die NTFs
+### Die NFTs
 
 - Von jedem NFT gibt es eine Kollektion. 
 	- Eine Kollektion ist ein Skat-Karten-Deck 
