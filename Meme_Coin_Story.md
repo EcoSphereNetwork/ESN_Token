@@ -7,7 +7,8 @@
 
 - Die Academy ist ebenfalls ein Meme Coin, da sie auch ein Produkt darstellt
 
-- Es gibt 8 Produkte, also 8 Meme Coins
+- Es gibt 12 Produkte, also 12 Meme Coins:
+	-  
 
 - Die Story:
 	- Die Produkte werden entwickelt ->
