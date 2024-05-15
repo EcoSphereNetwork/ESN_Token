@@ -50,7 +50,7 @@ ___
      
 ## NFT Collections - Road Map
 
-- [ ] 1. **Contributor NFT Collection**_ - Meme Coin & NFTs
+- [ ] 1. **Collaborator NFT Collection**_ - NFT Collection
 
 - [ ] 2. ...
 
