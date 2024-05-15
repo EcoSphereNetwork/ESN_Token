@@ -5,7 +5,7 @@ ___
 
 [#EcoSphere-Networks](https://github.com/SamSchim/EcoSphere-Networks) | [#SmoliToken](https://github.com/SamSchim/SmoliToken) | [#TrandingBot](https://github.com/SamSchim/TrandingBot) | [#SmoliTrade](https://github.com/SamSchim/SmoliTrade-App) | [#Smolit-Suite](https://github.com/SamSchim/Smolitux-Suite) | [#SmolituxOS](https://github.com/SamSchim/SmolituxOS) 
 ___
-https://app.dework.xyz/i/0dR9xe6qh70eolWfod6PxT
+https://app.dework.xyz/ecosphere-networks/smolitoken/overview
 ___
 
 # Hier werden alle Infos zu Meme Coins, NFTs und der tokenisierung des Pojektes Smolitux gepostet
