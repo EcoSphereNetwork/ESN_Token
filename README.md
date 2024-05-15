@@ -50,7 +50,7 @@ ___
      
 ## NFT Collections - Road Map
 
-- [ ] 1. **Collaborator NFT Collection**_ - NFT Collection
+- [ ] 1. **_Collaborator NFT Collection**_ - NFT Collection
 
 - [ ] 2. ...
 
