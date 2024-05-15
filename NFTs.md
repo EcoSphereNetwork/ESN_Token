@@ -1,3 +1,5 @@
+_**DIE SEITE IST IN BEARBEITUNG**_
+
 ### Die NFTs
 
 - Von jedem NFT gibt es eine Kollektion. 
@@ -41,9 +43,22 @@
 	- Sobald alle NFTs verkauft wurden, wird das Projekt gestartet und es gibt einen neuen Meme Coin
 
 ### Crew Member NFTs
-- Es werden 128 Crew Member NTFs erstellt
+- Es wird eine limitierte Anzahl Crew Member NTFs erstellt
   	- Die Crew Member NFTs werden nur an die Start Crew des Smolitux Projektes vergeben
-  	- Alle 128 Crew Member NFTs stellen 10% des gesamten Firmen Wertes da
+  	- Alle Crew Member NFTs zusammen stellen 5% des gesamten Firmen Wertes da
+
+### Contributors NFT Collection
+- Für jeden Contributor wird ein NFT mit einer NFT Collection erstellt
+  	- Der Contributor NFT Besitzer kann die NFTs der Collection verkaufen
+  	- Alle Contributor NFTs stellen 5% des gesamten Firmen Wertes da
+
+### Investor NFT Collection
+- Für jeden Investor wird ein NFT mit einer NFT Collection erstellt
+	- Der Wert des NFT spiegelt die Höhe der Investiotion
+ 	- Die Summe aller NFT aus einer Investor NFT Collection ergibt den Wert des Investor NFT
+  		- Bsp: Bei 10 NFTs in der Investor Collection ist jeder Investor Collection NFT 10% des Investor NFT wert
+  	- Der Investor NFT Besitzer kann die NFTs der Collection verkaufen
+  	- Alle Contributor NFTs stellen 5% des gesamten Firmen Wertes da 
 
 ### Artist NFTs & Meme Coins
 - Artist NFTs repräsentieren ein echtes Kunstwerk
