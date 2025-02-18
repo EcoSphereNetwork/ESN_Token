@@ -7,26 +7,26 @@ Diese Roadmap führt durch die **Entwicklung, Tests und Deployment** aller Smart
 **🛠 Ziel:**  
 - **Erstellen und testen der Basis-Token & NFTs**, um den Betrieb zu ermöglichen.  
 - **Schritte:**  
-  ✅ Haupt-Token für DAO-Zahlungen & Governance  
-  ✅ CrewNFTs für DAO-Teams  
-  ✅ InvestorNFTs für projektbasierte Investments  
-  ✅ CommunityNFTs für Gamification  
+  - [ ] Haupt-Token für DAO-Zahlungen & Governance  
+  - [ ] CrewNFTs für DAO-Teams  
+  - [ ] InvestorNFTs für projektbasierte Investments  
+  - [ ] CommunityNFTs für Gamification  
 
 ---
 
 ### **🚀 Schritt 1: Entwicklung des ERC-20 Haupt-Tokens**
 **Zeitrahmen:** 1-2 Wochen  
 
-✅ **Code-Erstellung:**  
+- [ ] **Code-Erstellung:**  
 - Smart Contract für DAO-Token erstellen (OpenZeppelin ERC-20).  
 - Funktionen: **Minting, Burning, Transfers, Governance-Stimmrecht**.  
 
-✅ **Unit-Tests:**  
-- ✅ Testen der **Token-Generierung & Übertragung**.  
-- ✅ **Sicherstellen, dass Minting/Burning nur von DAO erfolgt**.  
-- ✅ Check auf **Reentrancy & Overflow-Sicherheiten**.  
+- [ ] **Unit-Tests:**  
+- - [ ] Testen der **Token-Generierung & Übertragung**.  
+- - [ ] **Sicherstellen, dass Minting/Burning nur von DAO erfolgt**.  
+- - [ ] Check auf **Reentrancy & Overflow-Sicherheiten**.  
 
-✅ **Deployment:**  
+- [ ] **Deployment:**  
 - Test-Deployment auf **Goerli oder Sepolia Testnet**.  
 - Validierung über **Etherscan & Hardhat Tests**.  
 
@@ -35,16 +35,16 @@ Diese Roadmap führt durch die **Entwicklung, Tests und Deployment** aller Smart
 ### **🚀 Schritt 2: Entwicklung & Tests des CrewNFT Contracts**  
 **Zeitrahmen:** 1 Woche  
 
-✅ **Code-Erstellung:**  
+- [ ] **Code-Erstellung:**  
 - ERC-721 oder ERC-1155 Smart Contract mit Level-System.  
 - Funktionen: **NFT-Minting, Upgrade-Mechanismus, Gewinnbeteiligung**.  
 
-✅ **Unit-Tests:**  
-- ✅ **CrewNFT kann nur von DAO vergeben werden**.  
-- ✅ **NFT-Level-Up funktioniert korrekt**.  
-- ✅ **Ausschüttung der Gewinnbeteiligung getestet**.  
+- [ ] **Unit-Tests:**  
+- - [ ] **CrewNFT kann nur von DAO vergeben werden**.  
+- - [ ] **NFT-Level-Up funktioniert korrekt**.  
+- - [ ] **Ausschüttung der Gewinnbeteiligung getestet**.  
 
-✅ **Deployment:**  
+- [ ] **Deployment:**  
 - Test-Deployment auf **Goerli oder Sepolia Testnet**.  
 - API-Integration für DAO-Dashboard testen.  
 
@@ -53,16 +53,16 @@ Diese Roadmap führt durch die **Entwicklung, Tests und Deployment** aller Smart
 ### **🚀 Schritt 3: Entwicklung & Tests des InvestorNFT Contracts**  
 **Zeitrahmen:** 1-2 Wochen  
 
-✅ **Code-Erstellung:**  
+- [ ] **Code-Erstellung:**  
 - ERC-721 oder ERC-1155 Smart Contract mit Investoren-Leveln.  
 - Funktionen: **NFT-Kauf, Investment-Tracking, Bonus-ROI**.  
 
-✅ **Unit-Tests:**  
-- ✅ **NFT-Käufe nur mit Haupt-Token zulässig**.  
-- ✅ **Investoren-ROI korrekt berechnet & ausgezahlt**.  
-- ✅ **InvestorNFT-Resale & Sekundärmarkt-Mechanismus getestet**.  
+- [ ] **Unit-Tests:**  
+- - [ ] **NFT-Käufe nur mit Haupt-Token zulässig**.  
+- - [ ] **Investoren-ROI korrekt berechnet & ausgezahlt**.  
+- - [ ] **InvestorNFT-Resale & Sekundärmarkt-Mechanismus getestet**.  
 
-✅ **Deployment:**  
+- [ ] **Deployment:**  
 - Goerli/Sepolia Deployment + Investment-Test-Transaktionen.  
 
 ---
@@ -70,16 +70,16 @@ Diese Roadmap führt durch die **Entwicklung, Tests und Deployment** aller Smart
 ### **🚀 Schritt 4: Entwicklung & Tests des CommunityNFT Contracts**  
 **Zeitrahmen:** 1 Woche  
 
-✅ **Code-Erstellung:**  
+- [ ] **Code-Erstellung:**  
 - ERC-721 Smart Contract für CommunityNFTs.  
 - Funktionen: **Minting für Engagement, Upgrades mit Haupt-Token, CrewNFT-Freischaltung**.  
 
-✅ **Unit-Tests:**  
-- ✅ **CommunityNFT wird korrekt für aktive User vergeben**.  
-- ✅ **Upgrades mit Haupt-Token erfolgreich getestet**.  
-- ✅ **CrewNFT-Freischaltung für aktive Community-Mitglieder funktioniert**.  
+- [ ] **Unit-Tests:**  
+- - [ ] **CommunityNFT wird korrekt für aktive User vergeben**.  
+- - [ ] **Upgrades mit Haupt-Token erfolgreich getestet**.  
+- - [ ] **CrewNFT-Freischaltung für aktive Community-Mitglieder funktioniert**.  
 
-✅ **Deployment:**  
+- [ ] **Deployment:**  
 - Testnet-Deployment auf Goerli/Sepolia mit API-Integration.  
 
 ---
@@ -88,25 +88,25 @@ Diese Roadmap führt durch die **Entwicklung, Tests und Deployment** aller Smart
 **🛠 Ziel:**  
 - **Monetarisierung aktivieren** & langfristige Bindung fördern.  
 - **Schritte:**  
-  ✅ Erfolgsgebühr für Investoren  
-  ✅ NFT-Upgrades gegen Haupt-Token  
-  ✅ Limitierte NFT-Drops  
-  ✅ Staking für NFTs  
+  - [ ] Erfolgsgebühr für Investoren  
+  - [ ] NFT-Upgrades gegen Haupt-Token  
+  - [ ] Limitierte NFT-Drops  
+  - [ ] Staking für NFTs  
 
 ---
 
 ### **🚀 Schritt 5: Entwicklung & Tests des Investor Success Fee Contracts**  
 **Zeitrahmen:** 1 Woche  
 
-✅ **Code-Erstellung:**  
+- [ ] **Code-Erstellung:**  
 - Berechnung der **3% Erfolgsgebühr auf Gewinne**.  
 - Automatische **DAO-Kassen-Zuordnung**.  
 
-✅ **Unit-Tests:**  
-- ✅ **Gebühr wird korrekt berechnet & eingezogen**.  
-- ✅ **Transparente Gewinnbeteiligung getestet**.  
+- [ ] **Unit-Tests:**  
+- - [ ] **Gebühr wird korrekt berechnet & eingezogen**.  
+- - [ ] **Transparente Gewinnbeteiligung getestet**.  
 
-✅ **Deployment:**  
+- [ ] **Deployment:**  
 - Testlauf mit simulierten Investoren-Gewinnen.  
 
 ---
@@ -114,15 +114,15 @@ Diese Roadmap führt durch die **Entwicklung, Tests und Deployment** aller Smart
 ### **🚀 Schritt 6: Entwicklung & Tests des NFT Upgrade Contracts**  
 **Zeitrahmen:** 1 Woche  
 
-✅ **Code-Erstellung:**  
+- [ ] **Code-Erstellung:**  
 - Upgrade-Mechanismus für Community- & InvestorNFTs.  
 - Zahlung in Haupt-Token für Upgrades.  
 
-✅ **Unit-Tests:**  
-- ✅ **Upgrade funktioniert nur mit richtiger Zahlung**.  
-- ✅ **Upgrade erhöht die NFT-Level korrekt**.  
+- [ ] **Unit-Tests:**  
+- - [ ] **Upgrade funktioniert nur mit richtiger Zahlung**.  
+- - [ ] **Upgrade erhöht die NFT-Level korrekt**.  
 
-✅ **Deployment:**  
+- [ ] **Deployment:**  
 - Test-Upgrade-Transaktionen mit verschiedenen Nutzerrollen.  
 
 ---
@@ -130,15 +130,15 @@ Diese Roadmap führt durch die **Entwicklung, Tests und Deployment** aller Smart
 ### **🚀 Schritt 7: Entwicklung & Tests des NFT Drop Contracts**  
 **Zeitrahmen:** 1 Woche  
 
-✅ **Code-Erstellung:**  
+- [ ] **Code-Erstellung:**  
 - **Limitierte NFTs für Events** mit Preissteuerung.  
 - Whitelist-Mechanismus für bestimmte Investoren.  
 
-✅ **Unit-Tests:**  
-- ✅ **Nur Whitelist-Mitglieder können kaufen**.  
-- ✅ **Preis & Zahlungsabwicklung in Haupt-Token getestet**.  
+- [ ] **Unit-Tests:**  
+- - [ ] **Nur Whitelist-Mitglieder können kaufen**.  
+- - [ ] **Preis & Zahlungsabwicklung in Haupt-Token getestet**.  
 
-✅ **Deployment:**  
+- [ ] **Deployment:**  
 - Test-Auktion auf Goerli/Sepolia.  
 
 ---
@@ -146,15 +146,15 @@ Diese Roadmap führt durch die **Entwicklung, Tests und Deployment** aller Smart
 ### **🚀 Schritt 8: Entwicklung & Tests des NFT Staking Contracts**  
 **Zeitrahmen:** 2 Wochen  
 
-✅ **Code-Erstellung:**  
+- [ ] **Code-Erstellung:**  
 - NFT-Staking für CrewNFT- & InvestorNFT-Besitzer.  
 - Bonusmechanismus für Langzeitstaker.  
 
-✅ **Unit-Tests:**  
-- ✅ **Staking-Einzahlungen & Berechnung der Rewards getestet**.  
-- ✅ **Early Unstake Penalty funktioniert korrekt**.  
+- [ ] **Unit-Tests:**  
+- - [ ] **Staking-Einzahlungen & Berechnung der Rewards getestet**.  
+- - [ ] **Early Unstake Penalty funktioniert korrekt**.  
 
-✅ **Deployment:**  
+- [ ] **Deployment:**  
 - Test-Staking-Pools für Crew- & InvestorNFTs.  
 
 ---
@@ -163,22 +163,22 @@ Diese Roadmap führt durch die **Entwicklung, Tests und Deployment** aller Smart
 **🛠 Ziel:**  
 - **Mitglieder können über DAO-Entscheidungen abstimmen.**  
 - **Schritte:**  
-  ✅ DAO Governance Smart Contract  
+  - [ ] DAO Governance Smart Contract  
 
 ---
 
 ### **🚀 Schritt 9: Entwicklung & Tests des DAO Governance Contracts**  
 **Zeitrahmen:** 2 Wochen  
 
-✅ **Code-Erstellung:**  
+- [ ] **Code-Erstellung:**  
 - OpenZeppelin Governor Contract für Abstimmungen.  
 - Stimmrechte basierend auf Haupt-Token oder NFTs.  
 
-✅ **Unit-Tests:**  
-- ✅ **Token-basierte Stimmrechte getestet**.  
-- ✅ **Abstimmungsmechanismus mit verschiedenen Szenarien geprüft**.  
+- [ ] **Unit-Tests:**  
+- - [ ] **Token-basierte Stimmrechte getestet**.  
+- - [ ] **Abstimmungsmechanismus mit verschiedenen Szenarien geprüft**.  
 
-✅ **Deployment:**  
+- [ ] **Deployment:**  
 - DAO-Setup mit echten Governance-Entscheidungen.  
 
 ---
@@ -201,9 +201,9 @@ Diese Roadmap führt durch die **Entwicklung, Tests und Deployment** aller Smart
 ---
 
 ## **🎯 Fazit & Nächste Schritte**
-✅ **Alle Phasen sind strategisch aufeinander abgestimmt.**  
-✅ **Tests und Sicherheit haben höchste Priorität.**  
-✅ **Schon nach Phase 1 kann das DAO aktiv genutzt werden.**  
+- [ ] **Alle Phasen sind strategisch aufeinander abgestimmt.**  
+- [ ] **Tests und Sicherheit haben höchste Priorität.**  
+- [ ] **Schon nach Phase 1 kann das DAO aktiv genutzt werden.**  
 
 🔥 **Möchtest du, dass ich mit der Entwicklung eines bestimmten Contracts beginne?**  
 🔥 Oder soll ich einen **Proof of Concept (PoC) für Testnet bereitstellen?** 🚀
