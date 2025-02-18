@@ -1,9 +1,6 @@
-Hier ist eine **detaillierte und aussagekräftige `README.md`** für dein **DAO-Token-Projekt `ESN_Token`**.
 
----
-
-# **🌿 ESN_Token – Das Ökosystem für tokenisierte Organisationen**
-🚀 **ESN_Token** ist das zentrale Token- & NFT-Ökosystem für eine **dezentralisierte Organisation (DAO)**.  
+# **🌿 ESN_Token – Tokenisierungs Konzept für EcoSphereNetwork**
+🚀 **ESN_Token** ist das zentrale Token- & NFT-Ökosystem für _**ESN**_ **dezentralisierte Organisation (DAO)**.  
 Es ermöglicht eine **transparente, blockchain-basierte Verwaltung von Teammitgliedern, Investoren und Community-Mitgliedern**.
 
 ---
@@ -25,19 +22,52 @@ Es unterstützt **Mitarbeiter-, Investoren- und Community-NFTs**, um eine **flex
 ## **📌 Projektstruktur**
 ```yaml
 ESN_Token/
-│── smart_contracts/         # Solidity Smart Contracts
-│   ├── core/                # Kern-Smart Contracts (Token, NFTs, Governance)
-│   ├── staking/             # Staking & Belohnungen
-│   ├── revenue/             # Einnahmequellen & Gebühren
-│   ├── tests/               # Testfälle für Smart Contracts
-│── frontend/                # Web-Dashboard für DAO-Management
-│   ├── src/pages/           # UI-Seiten für Abstimmungen, NFT-Management, Jobs
-│   ├── src/hooks/           # Web3-Integration für Smart Contracts
-│── backend/                 # API & Datenbank für DAO-Verwaltung
-│── docs/                    # Dokumentation & Anleitungen
-│── scripts/                 # Automatisierungs- & Deployment-Skripte
-│── README.md                # Haupt-Dokumentation
-│── hardhat.config.js        # Solidity Entwicklungsumgebung
+│── smart_contracts/           # Alle Solidity Smart Contracts
+│   ├── core/                  # Kernverträge (Token, NFTs, Governance)
+│   │   ├── ESN_Token.sol       # Haupt-ERC-20 Token für die DAO
+│   │   ├── CrewNFT.sol         # CrewNFTs für Mitarbeiter
+│   │   ├── InvestorNFT.sol     # InvestorNFTs für Kapitalgeber
+│   │   ├── CommunityNFT.sol    # CommunityNFTs für Gamification
+│   │   ├── DAO_Governance.sol  # DAO-Abstimmungen & Verwaltung
+│   │   ├── Voting.sol          # Abstimmungsmechanismus
+│   ├── staking/                # Staking Contracts für NFTs & Token
+│   │   ├── NFT_Staking.sol     # Staking für CrewNFTs & InvestorNFTs
+│   │   ├── Token_Staking.sol   # Staking für ESN-Token
+│   ├── revenue/                # Einnahmequellen
+│   │   ├── Success_Fee.sol     # Erfolgsgebühr für Investoren
+│   │   ├── NFT_Upgrades.sol    # Smart Contract für NFT-Upgrades
+│   │   ├── NFT_Drops.sol       # Limitierte NFT-Drops
+│   ├── tests/                  # Smart Contract Tests
+│   │   ├── test_ESN_Token.js   
+│   │   ├── test_CrewNFT.js     
+│   │   ├── test_InvestorNFT.js 
+│── frontend/                   # DAO-Web-Dashboard & Nutzerverwaltung
+│   ├── public/                 # Statische Dateien
+│   ├── src/                    # Frontend-Code
+│   │   ├── components/         # Wiederverwendbare UI-Komponenten
+│   │   ├── pages/              # DAO-Dashboard Seiten
+│   │   │   ├── Home.js         # Übersicht des DAO
+│   │   │   ├── Voting.js       # Abstimmungen & Governance
+│   │   │   ├── Jobs.js         # Integration mit Dework (Job-Übersicht)
+│   │   │   ├── Profile.js      # Nutzerprofil & NFT-Management
+│   │   ├── hooks/              # Web3-Hooks für Smart Contract-Interaktionen
+│   │   ├── services/           # API-Anbindung für GraphQL / The Graph
+│── backend/                    # Backend-API & Datenverwaltung
+│   ├── database/               # PostgreSQL oder MongoDB für DAO-Daten
+│   ├── api/                    # Node.js API für Abstimmungen & Token-Tracking
+│   ├── graph/                  # The Graph Subgraph für On-Chain-Analysen
+│── docs/                       # Projekt-Dokumentation
+│   ├── tokenomics.md           # Tokenomics & Verteilung
+│   ├── dao_governance.md       # DAO-Governance & Abstimmungen
+│   ├── api_docs.md             # API-Dokumentation für Frontend-Backend-Integration
+│   ├── setup_guide.md          # Installations- und Deployment-Anleitung
+│── scripts/                    # Deployment & Automatisierungsskripte
+│   ├── deploy_contracts.js     # Automatische Smart Contract-Deployments
+│   ├── generate_metadata.js    # NFT-Metadaten-Generierung
+│── README.md                   # Hauptübersicht des Repos
+│── .gitignore                   # Ausschluss von unnötigen Dateien
+│── package.json                 # Abhängigkeiten für Backend & Frontend
+│── hardhat.config.js             # Hardhat Konfiguration für Solidity-Entwicklung
 ```
 
 ---
